@@ -17,8 +17,8 @@ Este projeto é um servidor HTTP desenvolvido em Node.js, capaz de servir arquiv
 
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/BLCK999hf/Apache-PHP-MYSQL
+
 ```
 
 ### 2️⃣ Instalar dependências
